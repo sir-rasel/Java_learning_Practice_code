@@ -12,6 +12,7 @@ public class MethodIntroducing {
         
         System.out.println("Sum of a and b: ");
         int sum = add(a,b);
+        System.out.println(sum);
     }
     
     static int add(int a,int b){
